@@ -39,8 +39,8 @@ Are you ready to transform your idea into reality? Join WILL today, and let's na
 - Website: [thewasserstoff.com](https://thewasserstoff.com)
 - LinkedIn: [Wasserstoff LinkedIn](https://www.linkedin.com/company/wasserstoff)
 - Twitter: [Wasserstoff Twitter](https://twitter.com/wasserstoff)
-- Email: [info@thewasserstoff.com](mailto:contact@thewasserstoff.com)
-- Email: [hr@thewasserstoff.com](mailto:hr@thewasserstoff.com)
+- Email: [contact@thewasserstoff.com](mailto:contact@thewasserstoff.com)
+- Careers: [hr@thewasserstoff.com](mailto:hr@thewasserstoff.com)
 
 ---
 
