@@ -1,6 +1,6 @@
 # Wasserstoff Innovation and Learning Labs (WILL)
 
-![Wasserstoff Logo](https://thewasserstoff.com/assets/images/logo.png)
+![Wasserstoff Logo](https://thewasserstoff.com/images/logo-top.png)
 
 ## "Where there is WILL, there is a way."
 
