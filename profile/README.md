@@ -1,7 +1,5 @@
 # Wasserstoff Innovation and Learning Labs (WILL)
 
-![Wasserstoff Logo](https://thewasserstoff.com/images/logo-top.png)
-
 ## "Where there is WILL, there is a way."
 
 Dive into the realm of innovation with Wasserstoff Innovation and Learning Labs (WILL), your ultimate partner in transforming visionary ideas into market-leading solutions. WILL is dedicated to fostering a nurturing environment where startups are equipped with the tools, guidance, and community support to navigate the journey from concept to market success.
